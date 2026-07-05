@@ -258,8 +258,8 @@ Internet-Draft                   AI-NPT                        July 2026
 
    The AI-assisted network protocol testing framework is illustrated in
    the figure below.  Test requirements are an external input, provided
-   by operators, testing teams, or certification teams for each test
-   campaign.
+   by the testing team for each test campaign.
+
 
 
 

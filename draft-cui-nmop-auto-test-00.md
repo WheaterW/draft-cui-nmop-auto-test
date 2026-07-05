@@ -136,7 +136,7 @@ Before executing a test case, the DUT is initialized with test-specific configur
 
 # Framework
 
-The AI-assisted network protocol testing framework is illustrated in the figure below.  Test requirements are an external input, provided by operators, testing teams, or certification teams for each test campaign.
+The AI-assisted network protocol testing framework is illustrated in the figure below.  Test requirements are an external input, provided by the testing team for each test campaign.
 
     +------------------------+    +-----------------------+
     | Protocol Specification |    |   Test Requirements   |
